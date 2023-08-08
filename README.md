@@ -5,4 +5,4 @@ Classifier for words:
 "Adelante"
 "Atrás"
 "Izquierda"
-"Derecha
+"Derecha"
